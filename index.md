@@ -1,6 +1,7 @@
 ---
-Software Libre 
-<br><br><br><br><br><p><img src="img/cc0.png"/>
+# Software Libre
+Aspectos básicos
+<br><br><br><p><img src="img/cc0.png"/>
 ---
 
 
@@ -57,7 +58,7 @@ El Software Libre es aquel que respeta la libertad de las/os usuarias/os para **
 
 # ¿Qué es el movimiento del software libre?
 
-Promueve que los usuarios/as de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que las/os usuarias/os ejerzan **el control** de sus propias tareas de computación
+Promueve que las/os usuarias/os de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que las/os usuarias/os ejerzan **el control** de sus propias tareas de computación
 
 
 
@@ -117,23 +118,16 @@ Usar un programa libre es **desarrollo**
 
 
 
-# Free Software </br> Software Libre </br> (Libre ≠ gratis)
+# Free Software</br> Software Libre</br> (Libre ≠ gratis)
 
-El software libre es una cuestión de **libertad**, no de precio.<br>
-Debe pensarse en «libre» como en «libertad de expresión»,<br>
-no como en «cerveza gratis»
+El software libre es una cuestión de **libertad**, no de precio.
+Debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
 
 
 # Parte 2
 
 Derechos reservados
-
-
-
-# ¿izquierda o derecha?
-
-![](img/izq-der.jpg)
 
 
 
@@ -145,29 +139,13 @@ Derechos reservados
 
 #
 
-![](img/mikey.jpg)
-
-
-
-#
-
 ![](img/compartir-es-bueno.jpg)
 
 
 
 # Copyleft
 
-![](img/sinal.jpg)
-
-prohibido girar a la derecha
-
-
-
-#
-
-![](img/copyleft.jpg)
-
-Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres
+Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres<br>
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
 
@@ -180,9 +158,7 @@ Método general para liberar un programa u otro tipo de trabajo, que requiere qu
 
 
 
-#
-
-![](img/GNU_white.svg)
+# ![](img/so-gnu.jpg)
 
 GNU es un sistema operativo de Software Libre,<BR>
 es decir, respeta la libertad de las/os usuarias/os
@@ -207,7 +183,7 @@ es decir, respeta la libertad de las/os usuarias/os
 
 ![](img/gpl.png)
 
-La licencia más ampliamente usada en el mundo del software libre
+La licencia más ampliamente usada en el mundo del software libre.
 La 1ra diseñada específicamente para impedir la apropiación privada del software
 
 
@@ -216,7 +192,11 @@ La 1ra diseñada específicamente para impedir la apropiación privada del softw
 
 ![](img/DNA.jpg)
 
-Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL. Garantiza las 4 libertades esenciales
+
+
+# 
+Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<br>
+ Garantiza las 4 libertades esenciales
 
 
 
@@ -437,19 +417,9 @@ El conocimiento liberado de patentes, con apoyo del Estado y una academia conect
 
 #
 
-![](img/des.jpg)
-
-#
-
 Richard Stallman en Río Cuarto, 26 de mayo 2018
 
 ![](img/RMS.jpg)
-
-
-
-#
-
-![](img/manual.tec.abiertas.jpg)
 
 
 
@@ -505,4 +475,4 @@ videos, entrevistas, libros, notas
 
 ![](img/fsfs_red-bg_es.png)
 
-https://daniel.dbellomo.ar/sl.coop
+https://daniel.dbellomo.ar/sl-coop
