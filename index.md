@@ -1,6 +1,6 @@
 # 
 
-![](img/fsfs_icons_beige-bg-es.png)
+![](img/fsfs_red-bg_es.png)
 <br><br><br><p><img src="img/cc0.png"/>
 
 
@@ -460,18 +460,9 @@ videos, entrevistas, libros, notas
 
 #
 
-![](img/gnu-linux-software-libre_big.jpg)
-
-
-
-#
-
 ![](img/i-support-fs_red-bg_es.png)
 
 
 
 #
-
-![](img/fsfs_red-bg_es.png)
-
 https://daniel.dbellomo.ar/sl-coop
