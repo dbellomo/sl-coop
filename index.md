@@ -1,8 +1,7 @@
----
-# Software Libre
-Aspectos básicos
+# 
+
+![](img/fsfs_icons_beige-bg-es.png)
 <br><br><br><p><img src="img/cc0.png"/>
----
 
 
 
