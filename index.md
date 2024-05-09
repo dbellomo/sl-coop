@@ -21,8 +21,6 @@ Conceptos
 
 ![](img/jaula.jpg)
 
-Software No Libre
-
 
 
 # Software Libre
@@ -51,13 +49,13 @@ Software No Libre
 
 # ¿Qué es el Software Libre?
 
-El Software Libre es aquel que respeta la libertad de las/os usuarias/os para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
+El Software Libre es aquel que respeta la libertad de los usuarios para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
 
 
 
 # ¿Qué es el movimiento del software libre?
 
-Promueve que las/os usuarias/os de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que las/os usuarias/os ejerzan **el control** de sus propias tareas de computación
+Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que los usuarios ejerzan **el control** de sus propias tareas de computación
 
 
 
@@ -160,7 +158,7 @@ Método general para liberar un programa u otro tipo de trabajo, que requiere qu
 # ![](img/so-gnu.jpg)
 
 GNU es un sistema operativo de Software Libre,<BR>
-es decir, respeta la libertad de las/os usuarias/os
+es decir, respeta la libertad de los usuarios
 
 
 
@@ -466,3 +464,4 @@ videos, entrevistas, libros, notas
 
 #
 https://daniel.dbellomo.ar/sl-coop
+
