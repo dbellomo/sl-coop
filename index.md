@@ -286,6 +286,12 @@ https://www.debian.org/social_contract.es.html
 
 
 
+#
+
+![](img/jitsi.jpeg)
+
+
+
 # Estándares
 
 Consensuados, Libres y Abiertos vs de facto
