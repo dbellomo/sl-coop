@@ -11,25 +11,25 @@ Conceptos
 
 
 
-# ¿Qué es el Software?
+## ¿Qué es el Software?
 
 ![](img/software.jpg)
 
 
 
-# Software Privativo
+## Software Privativo
 
 ![](img/jaula.jpg)
 
 
 
-# Software Libre
+## Software Libre
 
 ![](img/oktubre.jpg)
 
 
 
-# ¿Quién tiene el control?
+## ¿Quién tiene el control?
 
 ![](img/control.jpg)
 
@@ -47,13 +47,13 @@ Conceptos
 
 
 
-# ¿Qué es el Software Libre?
+## ¿Qué es el Software Libre?
 
 El Software Libre es aquel que respeta la libertad de los usuarios para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
 
 
 
-# ¿Qué es el movimiento del software libre?
+## ¿Qué es el movimiento del software libre?
 
 Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que los usuarios ejerzan **el control** de sus propias tareas de computación
 
@@ -67,7 +67,7 @@ Richard Stallman
 
 
 
-# Libertades
+## Libertades
 
 ![](img/fsfs_icons_red-bg_es.png)
 
@@ -75,25 +75,25 @@ Respeta cuatro libertades esenciales
 
 
 
-# Ejecutar
+## Ejecutar
 
 ![](img/ejecutar.png)
 
 
 
-# Estudiar
+## Estudiar
 
 ![](img/estudiar.png)
 
 
 
-# Copiar
+## Copiar
 
 ![](img/copiar.png)
 
 
 
-# Modificar
+## Modificar
 
 ![](img/modificar.png)
 
@@ -107,7 +107,7 @@ No es una distinción técnica sino **ética, social y política**, por lo tanto
 
 
 
-# Dependencia vs desarrollo
+## Dependencia vs desarrollo
 
 Usar un programa privativo es **dependencia**
 
@@ -115,7 +115,7 @@ Usar un programa libre es **desarrollo**
 
 
 
-# Free Software</br> Software Libre</br> (Libre ≠ gratis)
+## Free Software</br> Software Libre</br> (Libre ≠ gratis)
 
 El software libre es una cuestión de **libertad**, no de precio.
 Debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
@@ -128,7 +128,7 @@ Derechos reservados
 
 
 
-# Copyright
+## Copyright
 
 ![](img/copyright.jpg)
 
@@ -140,7 +140,7 @@ Derechos reservados
 
 
 
-# Copyleft
+## Copyleft
 
 Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres<br>
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
@@ -155,13 +155,13 @@ Método general para liberar un programa u otro tipo de trabajo, que requiere qu
 
 
 
-# La licencia
+## La licencia
 
 ![](img/licencia_vlc.png)
 
 
 
-# Licencia GPL
+## Licencia GPL
 
 ![](img/gpl.png)
 
@@ -170,19 +170,20 @@ La 1ra diseñada específicamente para impedir la apropiación privada del softw
 
 
 
-# Carácter hereditario
+## Carácter hereditario
 
 ![](img/DNA.jpg)
 
 
 
 # 
+
 Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<br>
  Garantiza las 4 libertades esenciales
 
 
 
-# Licencias para software
+## Licencias para software
 
 Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
@@ -197,7 +198,7 @@ Programas
 
 
 
-# ¿Qué es GNU?
+## ¿Qué es GNU?
 
 ![](img/V3lIE.png)
 
@@ -212,32 +213,31 @@ es decir, respeta la libertad de los usuarios
 
 
 
-
-# ¿Qué es Linux?
+## ¿Qué es Linux?
 
 ![](img/motor.jpg)
 
 
 
-# ¿Qué es GNU/Linux?
+## ¿Qué es GNU/Linux?
 
 ![](img/auto.png)
 
 
 
-# GNU/Linux
+## GNU/Linux
 
 ![](img/gnu_tux.png)
 
 
 
-# Distribuciones GNU/Linux
+## Distribuciones GNU/Linux
 
 ![](img/distros.jpg)
 
 
 
-# Contrato social de Debian
+## Contrato social de Debian
 
 "Contrato social" con la comunidad de software libre
 
@@ -251,7 +251,7 @@ https://www.debian.org/social_contract.es.html
 
 
 
-# ¿Qué podemos hacer con Software Libre?
+## ¿Qué podemos hacer con Software Libre?
 
 ![](img/gnu.jpg)
 
@@ -293,7 +293,7 @@ https://www.debian.org/social_contract.es.html
 
 
 
-# Estándares
+## Estándares
 
 Consensuados, Libres y Abiertos vs de facto
 
@@ -301,7 +301,7 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 
 
 
-# OpenDocument
+## OpenDocument
 
 ![](img/odf.jpg)
 
@@ -318,7 +318,7 @@ La Comunidad
 
 
 
-# Conocimiento
+## Conocimiento
 
 * Bien Común
 * Colectivo
@@ -326,9 +326,9 @@ La Comunidad
 
 
 
-# El tipo de software que usamos importa
+## El tipo de software que usamos importa
 
-* ¿Qué acceso a la información,  conocimiento y cultura construimos hoy para las generaciones futuras?
+* ¿Qué acceso a la información,  conocimiento y cultura construimos p/ las generaciones futuras?
 
 * ¿Cómo podemos asegurar sus derechos en el marco de un desarrollo humano y productivo que considere estos derechos como una de sus dimensiones?
 
@@ -336,7 +336,7 @@ La Comunidad
 
 
 
-# Desnaturalización de lo dado como irreversible
+## Desnaturalización de lo dado como irreversible
 
 * Saber que podemos elegir el software que usamos
 * reflexionar críticamente sobre la forma productiva en la que nos organizamos
@@ -344,7 +344,7 @@ La Comunidad
 
 
 
-# ¿de quién es el conocimiento?
+## ¿de quién es el conocimiento?
 
 ![](img/office.jpg)
 
@@ -352,11 +352,11 @@ La Comunidad
 
 #
 
-El Software Libre se convirtió en una forma de **producción y distribución del conocimiento** completamente diferente a la que genera la industria capitalista, proponiendo la libertad en el uso y apropiación del conocimiento
+### El Software Libre se convirtió en una forma de **producción y distribución del conocimiento** completamente diferente a la que genera la industria capitalista, proponiendo la libertad en el uso y apropiación del conocimiento
 
 
 
-# Valores y principios
+## Valores y principios
 
 ![](img/principios.jpg)
 
@@ -364,19 +364,19 @@ Valores y principios compartidos entre el cooperativismo y la producción de Sof
 
 
 
-# Acceso
+## Acceso
 
 El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
 
 
 
-# Ética
+## Ética
 
 *"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad de las usuarias y la solidaridad social de su comunidad"* RMS
 
 
 
-# Combatir la OBSOLESCENCIA PROGRAMADA
+## Combatir la OBSOLESCENCIA PROGRAMADA
 
 (casi) una distro para cada requerimiento
 
@@ -390,19 +390,19 @@ Comprar, tirar, comprar
 
 
 
-# Actualizaciones
+## Actualizaciones
 
 ![](img/mintupdate.png)
 
 
 
-# WannaCry
+## WannaCry
 
 ![](img/wannacry.png)
 
 
 
-# Software libre: Soberanía e independencia tecnológica
+## Software libre: Soberanía e independencia tecnológica
 
 Tecnología nacional y desarrollo asociado
 
@@ -414,7 +414,7 @@ Tecnología nacional y desarrollo asociado
 
 
 
-# La familia unida
+## La familia unida
 
 El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local
 
@@ -436,7 +436,7 @@ Richard Stallman en Río Cuarto, 26 de mayo 2018
 
 # referencias
 
-videos, entrevistas, libros, notas
+#### videos, entrevistas, libros, notas
 
 
 
