@@ -469,5 +469,5 @@ videos, entrevistas, libros, notas
 
 
 #
-https://daniel.dbellomo.ar/sl-coop
+https://daniel.bellomo.ar/sl-coop
 
