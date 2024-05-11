@@ -402,7 +402,8 @@ Comprar, tirar, comprar
 
 
 
-## Software libre: Soberanía e independencia tecnológica
+## Software libre
+###  Soberanía e independencia tecnológica
 
 Tecnología nacional y desarrollo asociado
 
