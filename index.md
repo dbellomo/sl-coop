@@ -358,7 +358,9 @@ El Software Libre se convirtió en una forma de **producción y distribución de
 
 # Valores y principios
 
-Valores y principios compartidos entre el coopetarivismo y la producción de Software Libre
+![](img/principios.jpg)
+
+Valores y principios compartidos entre el cooperativismo y la producción de Software Libre
 
 
 
