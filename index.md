@@ -147,21 +147,6 @@ Método general para liberar un programa u otro tipo de trabajo, que requiere qu
 
 
 
-# ¿Qué es GNU?
-
-![](img/V3lIE.png)
-
-[El manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
-
-
-
-# ![](img/so-gnu.jpg)
-
-GNU es un sistema operativo de Software Libre,<BR>
-es decir, respeta la libertad de los usuarios
-
-
-
 # Parte 3
 
 ![](img/javascript.jpg)
@@ -209,6 +194,22 @@ Licencias de Software Libre compatibles con la GPL
 ![](img/programas.png)
 
 Programas
+
+
+
+# ¿Qué es GNU?
+
+![](img/V3lIE.png)
+
+[El manifiesto de GNU](https://www.gnu.org/gnu/manifesto.es.html)
+
+
+
+# ![](img/gnu-contract-featured.jpg)
+
+GNU es un sistema operativo de Software Libre,<BR>
+es decir, respeta la libertad de los usuarios
+
 
 
 
@@ -305,8 +306,7 @@ Crear un ambiente favorable para que el Software Libre pueda prosperar
 ![](img/odf.jpg)
 
 Formato de Documento Abierto p/ Aplicaciones de Oficina (ODF)
-
-Std OASIS - Open Document Format for Office Applications -
+Std OASIS
 
 
 
@@ -328,7 +328,7 @@ La Comunidad
 
 # El tipo de software que usamos importa
 
-* ¿Qué acceso a la información y al conocimiento y la cultura construimos hoy para las generaciones futuras?
+* ¿Qué acceso a la información,  conocimiento y cultura construimos hoy para las generaciones futuras?
 
 * ¿Cómo podemos asegurar sus derechos en el marco de un desarrollo humano y productivo que considere estos derechos como una de sus dimensiones?
 
