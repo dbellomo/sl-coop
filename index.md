@@ -178,7 +178,7 @@ La 1ra diseñada específicamente para impedir la apropiación privada del softw
 
 # 
 
-Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<br>
+### Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<br>
  Garantiza las 4 libertades esenciales
 
 
@@ -366,7 +366,7 @@ Valores y principios compartidos entre el cooperativismo y la producción de Sof
 
 ## Acceso
 
-El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
+### El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
 
 
 
