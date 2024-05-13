@@ -366,7 +366,7 @@ Valores y principios compartidos entre el cooperativismo y la producción de Sof
 
 ## Acceso
 
-### El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
+El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
 
 
 
@@ -437,7 +437,7 @@ Richard Stallman en Río Cuarto, 26 de mayo 2018
 
 # referencias
 
-#### videos, entrevistas, libros, notas
+videos, entrevistas, libros, notas
 
 
 
