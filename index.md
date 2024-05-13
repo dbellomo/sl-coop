@@ -377,7 +377,7 @@ El acceso al conocimiento y la tecnología favorece círculos virtuosos de trans
 
 
 
-## Combatir la OBSOLESCENCIA PROGRAMADA
+## Combatir la Obsolescencia Programada
 ---
 (casi) una distro para cada requerimiento
 
