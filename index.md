@@ -48,13 +48,13 @@ Conceptos
 
 
 ## ¿Qué es el Software Libre?
-
+---
 El Software Libre es aquel que respeta la libertad de los usuarios para **ejecutarlo, copiarlo, distribuirlo, estudiarlo, modificarlo y mejorarlo**; y la solidaridad social de tu comunidad
 
 
 
 ## ¿Qué es el movimiento del software libre?
-
+---
 Promueve que los usuarios de computadoras obtengan la libertad que otorga el software libre.  El software libre permite que los usuarios ejerzan **el control** de sus propias tareas de computación
 
 
@@ -108,7 +108,7 @@ No es una distinción técnica sino **ética, social y política**, por lo tanto
 
 
 ## Dependencia vs desarrollo
-
+---
 Usar un programa privativo es **dependencia**
 
 Usar un programa libre es **desarrollo**
@@ -116,7 +116,7 @@ Usar un programa libre es **desarrollo**
 
 
 ## Free Software</br> Software Libre</br> (Libre ≠ gratis)
-
+---
 El software libre es una cuestión de **libertad**, no de precio.
 Debe pensarse en «libre» como en «libertad de expresión», no como en «cerveza gratis»
 
@@ -141,7 +141,7 @@ Derechos reservados
 
 
 ## Copyleft
-
+---
 Método general para liberar un programa u otro tipo de trabajo, que requiere que todas las versiones modificadas y extendidas también sean libres<br>
 [¿Qué es el copyleft?](https://www.gnu.org/licenses/copyleft.es.html)
 
@@ -179,12 +179,13 @@ La 1ra diseñada específicamente para impedir la apropiación privada del softw
 # 
 
 ### Todo lo que se cree a partir de un programa liberado con GPL tendrá que tener a su vez GPL.<br>
- Garantiza las 4 libertades esenciales
+---
+Garantiza las 4 libertades esenciales
 
 
 
 ## Licencias para software
-
+---
 Licencias de Software Libre compatibles con la GPL
 [https://www.gnu.org/licenses/license-list.es.html](https://www.gnu.org/licenses/license-list.es.html)
 
@@ -294,7 +295,7 @@ https://www.debian.org/social_contract.es.html
 
 
 ## Estándares
-
+---
 Consensuados, Libres y Abiertos vs de facto
 
 Crear un ambiente favorable para que el Software Libre pueda prosperar
@@ -319,7 +320,7 @@ La Comunidad
 
 
 ## Conocimiento
-
+---
 * Bien Común
 * Colectivo
 * Democratización del conocimiento
@@ -327,7 +328,7 @@ La Comunidad
 
 
 ## El tipo de software que usamos importa
-
+---
 * ¿Qué acceso a la información,  conocimiento y cultura construimos p/ las generaciones futuras?
 
 * ¿Cómo podemos asegurar sus derechos en el marco de un desarrollo humano y productivo que considere estos derechos como una de sus dimensiones?
@@ -337,7 +338,7 @@ La Comunidad
 
 
 ## Desnaturalización de lo dado como irreversible
-
+---
 * Saber que podemos elegir el software que usamos
 * reflexionar críticamente sobre la forma productiva en la que nos organizamos
 * trabajar en favor de una transformación hacia un mejor mundo futuro
@@ -365,19 +366,19 @@ Valores y principios compartidos entre el cooperativismo y la producción de Sof
 
 
 ## Acceso
-
+---
 El acceso al conocimiento y la tecnología favorece círculos virtuosos de transformación social
 
 
 
 ## Ética
-
+---
 *"El Software Libre no es un asunto técnico, es un asunto ético del uso de las tecnologías, porque el Software Libre respeta la libertad de las usuarias y la solidaridad social de su comunidad"* RMS
 
 
 
 ## Combatir la OBSOLESCENCIA PROGRAMADA
-
+---
 (casi) una distro para cada requerimiento
 
 
@@ -404,7 +405,7 @@ Comprar, tirar, comprar
 
 ## Software libre
 ###  Soberanía e independencia tecnológica
-
+---
 Tecnología nacional y desarrollo asociado
 
 
@@ -416,7 +417,7 @@ Tecnología nacional y desarrollo asociado
 
 
 ## La familia unida
-
+---
 El conocimiento liberado de patentes, con apoyo del Estado y una academia conectada con las necesidades de la industria, puede facilitar el desarrollo tecnológico local
 
 
@@ -436,7 +437,7 @@ Richard Stallman en Río Cuarto, 26 de mayo 2018
 
 
 # referencias
-
+---
 videos, entrevistas, libros, notas
 
 
